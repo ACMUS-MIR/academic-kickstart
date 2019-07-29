@@ -3,10 +3,10 @@
 date = "2019-06-23"
 
 # Project title.
-title = "Speech music classification"
+title = "Music Scale Detection"
 
 # Project summary to display on homepage.
-summary = "Discrimination between speech and music (intrumental and vocal)."
+summary = "Detection of musical scales in audio recordings"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 #image_preview = "Audio-digitization-square.jpg"
@@ -27,4 +27,3 @@ math = false
 #caption = "My caption :smile:"
 
 +++
-

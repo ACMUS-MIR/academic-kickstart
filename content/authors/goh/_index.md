@@ -1,16 +1,16 @@
 ---
 # Display name
-name: 
+name: Sascha Grollmisch
 
 # Username (this should match the folder name)
 authors:
-- admin
+- goh
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Advancing Computational Musicology
+role: TU Ilmenau & Fraunhofer IDMT
 
 # Organizations/Affiliations
 organizations:
@@ -18,21 +18,20 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: "" 
+bio: Machine learning for audio and music 
 
 #interests:
-#- Computational Musicology
-#- Music Information Retrieval 
-#- Deep Learning
+#- Deep Learning 
 
-#education:
-#  courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
-#    year: 2012
-#  - course: MEng in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2009
+
+education:
+  courses:
+  - course: PhD candidate 
+    institution: TU Ilmenau
+    year: 2019 -
+  - course: MSc & BSc Media Technology
+    institution: TU Ilmenau
+    year: 2009
 #  - course: BSc in Artificial Intelligence
 #    institution: Massachusetts Institute of Technology
 #    year: 2008
@@ -44,13 +43,16 @@ bio: ""
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:acmus-mir@gmail.com
-- icon: github
-  icon_pack: fab
-  link: https://github.com/ACMUS-MIR
-- icon: mendeley
+  link: mailto:goh@idmt.fraunhofer.de
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/ecanoc
+- icon: google-scholar
   icon_pack: ai
-  link: https://www.mendeley.com/community/acmus-computational-musicology-and-mir/
+  link: https://scholar.google.de/citations?user=PC79N0EAAAAJ&hl=de
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/ecanoc
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -63,21 +65,11 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- project
+- PhD Students
 
-#gallery_item:
-#- album: gallery
-#  image: tui.png
-#  caption: A caption
 ---
 
-The ACMus project explores the use of machine learning techniques for computational musicology, digital music archive managment, and music information retrieval:  
+Sascha is a research scientist at Fraunhofer IDMT.
 
-Two main elements are the core of our project:  
-1. Emphasis on semi-supervised and unsupervised machine learning techniques that minimally rely on the availability of annotated data for a specific task.  
-2. Traditional Colombian music as the main focus of our study.
-
-
-![DFG](/img/dfg.png)
  
  

@@ -1,6 +1,6 @@
 +++
 # Date this page was created.
-#date = "2012-02-24"
+date = "2019-06-23"
 
 # Project title.
 title = "Ensemble Size Classification"
@@ -27,5 +27,3 @@ math = false
 #caption = "My caption :smile:"
 
 +++
-
-This project involved the accession, cataloging and digitization of several collections. It also involved cataloging of multiple collections already accessioned but not yet cataloged. I was responsible for identifying and collecting metadata relevant for audio collections. I communicated with the SIL Language and Culture Archive staff when metadata schemas in place were insufficient for audio collections. I identified and recommended changes to metadata profiles used at the time by the Language and Culture Archives. I consulted industry best practices and established quality control procedures related to the digitization of cassette tapes and reel to reel tapes. I served as project manager, with a volunteer workforce.

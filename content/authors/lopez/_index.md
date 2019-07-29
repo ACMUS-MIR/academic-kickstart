@@ -1,29 +1,28 @@
 ---
 # Display name
-name: 
+name: Gustavo López Gil
 
 # Username (this should match the folder name)
 authors:
-- admin
+- lopez
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Advancing Computational Musicology
+role: Universidad de Antioquia
 
 # Organizations/Affiliations
 organizations:
-- name: 
+- name: Universidad de Antioquia
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: "" 
+bio: Musicology
 
-#interests:
-#- Computational Musicology
-#- Music Information Retrieval 
-#- Deep Learning
+interests:
+- Musicology
+
 
 #education:
 #  courses:
@@ -42,15 +41,18 @@ bio: ""
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: mailto:acmus-mir@gmail.com
-- icon: github
-  icon_pack: fab
-  link: https://github.com/ACMUS-MIR
-- icon: mendeley
-  icon_pack: ai
-  link: https://www.mendeley.com/community/acmus-computational-musicology-and-mir/
+#- icon: envelope
+#  icon_pack: fas
+#  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/ecanoc
+#- icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.com/citations?user=l7cDVbIAAAAJ&hl=en
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/ecanoc
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -63,7 +65,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- project
+- Researchers
 
 #gallery_item:
 #- album: gallery
@@ -71,13 +73,9 @@ user_groups:
 #  caption: A caption
 ---
 
-The ACMus project explores the use of machine learning techniques for computational musicology, digital music archive managment, and music information retrieval:  
-
-Two main elements are the core of our project:  
-1. Emphasis on semi-supervised and unsupervised machine learning techniques that minimally rely on the availability of annotated data for a specific task.  
-2. Traditional Colombian music as the main focus of our study.
+Gustavo is a music researcher at the Universidad de Antioquia.
 
 
-![DFG](/img/dfg.png)
+
  
  
