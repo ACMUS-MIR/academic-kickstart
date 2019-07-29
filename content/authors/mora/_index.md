@@ -22,6 +22,7 @@ bio: musicology
 
 interests:
 - Musicology 
+- Music Information Retrieval
 
 
 #education:
