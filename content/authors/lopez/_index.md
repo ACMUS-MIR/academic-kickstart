@@ -18,13 +18,27 @@ organizations:
   url: "www.udea.edu.co"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Musicology
+bio: Musicology/researcher
 
-interests:
-- Musicology
-- Latin American Music
+#interests:
+#- Musicology
+#- Latin American Music
 
-#education:
+education:
+ courses:
+ - course: Educational computer specialist
+   institution: Universidad de Santander, Colombia
+   year: 2012
+ - course: Art and folklore specialist
+   institution: Universidad del Bosque, Colombia
+   year: 1998
+ - course: BSc in music education
+   institution: Universidad Adventista de Colombia
+   year: 1996
+ - course: BSc in agronomic Engineering
+   institution: Universidad Nacional de Colombia
+   year: 1985
+
 #  courses:
 #  - course: PhD in Artificial Intelligence
 #    institution: Stanford University
@@ -41,10 +55,9 @@ interests:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-#- icon: envelope
-#  icon_pack: fas
-#  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-#- icon: twitter
+- icon: envelope
+  icon_pack: fas
+  link: mailto:gustavo.lopez@udea.edu.co
 #  icon_pack: fab
 #  link: https://twitter.com/ecanoc
 #- icon: google-scholar
@@ -74,9 +87,7 @@ user_groups:
 ---
 
 
-I am a specialist in arts and folklore education, graduated in Music education, agronomist. He currently works as a teacher and member of the Regional Musical Research Group, attached to the Faculty
-of Arts of the University of Antioquia. Author of books, articles and records on
-Colombian folk tradition music.
+I am a musical and musicological researcher. I currently work as a professor and member of the Músicas Regionales Research Group, attached to the Faculty of Arts of the University of Antioquia. I have written books, articles and records on Colombian folk tradition.
 
 
  

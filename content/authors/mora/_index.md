@@ -18,13 +18,23 @@ organizations:
   url: "www.udea.edu.co"
 
 # Short bio (displayed in user profile at end of posts)
-bio: musicology
-interests:
-- Musicology 
-- Music Information Retrieval 
+bio: Music and Musicology researcher
 
-#education:
+#interests:
+#- Musicology 
+#- Music Information Retrieval 
 
+education:
+ courses:
+ - course: Master in Arts
+   institution: Universidad de Antioquia
+   year: 2013
+ - course: BSc in Systems Engineering
+   institution: Universidad de Antioquia
+   year: 2014
+ - course: BA in Music Guitar
+   institution: Universidad de Antioquia
+   year: 2000
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -32,8 +42,14 @@ interests:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
 - icon: envelope
-icon_pack: fas
-link: mailto:fernando.mora@udea.edu.co
+  icon_pack: fas
+  link: mailto:fernando.mora@udea.edu.co
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/fernandomoraa
+- icon: github
+  icon_pack: fab
+  link: https://github.com/fernandomoraangel
 
 
 #  icon_pack: fas
