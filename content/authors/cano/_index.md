@@ -25,7 +25,7 @@ bio: Music and Audio R&D
 
 
 education:
-  courses:
+ courses:
   - course: PhD in Media Technology
     institution: Fraunhofer IDMT - TU Ilmenau
     year: 2014

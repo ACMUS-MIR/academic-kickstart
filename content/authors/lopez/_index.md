@@ -10,19 +10,19 @@ authors:
 superuser: false
 
 # Role/position
-role: Universidad de Antioquia
+role: Músicas Regionales
 
 # Organizations/Affiliations
 organizations:
 - name: Universidad de Antioquia
-  url: ""
+  url: "www.udea.edu.co"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Musicology
 
 interests:
 - Musicology
-
+- Latin American Music
 
 #education:
 #  courses:
@@ -73,8 +73,10 @@ user_groups:
 #  caption: A caption
 ---
 
-Gustavo is a music researcher at the Universidad de Antioquia.
 
+I am a specialist in arts and folklore education, graduated in Music education, agronomist. He currently works as a teacher and member of the Regional Musical Research Group, attached to the Faculty
+of Arts of the University of Antioquia. Author of books, articles and records on
+Colombian folk tradition music.
 
 
  

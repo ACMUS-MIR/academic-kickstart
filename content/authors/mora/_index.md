@@ -10,48 +10,41 @@ authors:
 superuser: false
 
 # Role/position
-role: Researcher at Músicas Regionales, Universidad de Antioquia
+role: Músicas Regionales
 
 # Organizations/Affiliations
 organizations:
 - name: Universidad de Antioquia
-  url: ""
+  url: "www.udea.edu.co"
 
 # Short bio (displayed in user profile at end of posts)
 bio: musicology
-
 interests:
 - Musicology 
-- Music Information Retrieval
-
+- Music Information Retrieval 
 
 #education:
-#  courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
-#    year: 2012
-#  - course: MEng in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2009
-#  - course: BSc in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2008
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-#- icon: envelope
+- icon: envelope
+icon_pack: fas
+link: mailto:fernando.mora@udea.edu.co
+
+
 #  icon_pack: fas
 #  link: '#contact'  # For a direct email link, use "mailto:fernando.mora@udea.edu.co".
-#- icon: twitter
+# - icon: # twitter
 #  icon_pack: fab
 #  link: https://twitter.com/ecanoc
-#- icon: google-scholar
+# - icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.com/citations?user=l7cDVbIAAAAJ&hl=en
-#- icon: github
+# - icon: github
 #  icon_pack: fab
 #  link: https://github.com/ecanoc
 # Link to a PDF of your resume/CV from the About widget.
@@ -61,7 +54,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "fernando.mora@udea.edu.co"
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
@@ -74,7 +67,7 @@ user_groups:
 #  caption: A caption
 ---
 
-I am a musician, teacher and researcher at Músicas Regionales at Universidad de Antioquia. My work is about Latin American music.
+I am a musician, teacher and researcher at "Músicas Regionales" group at Universidad de Antioquia. My work is about Latin American music and composition of music with technologies. I have write books about music of Andean region of Colombia. As an Engeneer I work in developmentes related with music composition, music archives, Machine Learning and Music Information Retrieval.
 
 
 
