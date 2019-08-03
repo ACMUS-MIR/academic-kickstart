@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Fernando Mora A.
+name: Fernando Mora Ángel
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Universidad de Antioquia
+role: Researcher at Músicas Regionales, Universidad de Antioquia
 
 # Organizations/Affiliations
 organizations:
@@ -44,7 +44,7 @@ interests:
 social:
 #- icon: envelope
 #  icon_pack: fas
-#  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+#  link: '#contact'  # For a direct email link, use "mailto:fernando.mora@udea.edu.co".
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/ecanoc
@@ -74,7 +74,7 @@ user_groups:
 #  caption: A caption
 ---
 
-Fernando is a music researcher at the Universidad de Antioquia.
+I am a musician, teacher and researcher at Músicas Regionales at Universidad de Antioquia. My work is about Latin American music.
 
 
 
