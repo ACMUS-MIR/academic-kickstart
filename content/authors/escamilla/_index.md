@@ -73,7 +73,7 @@ user_groups:
 #  caption: A caption
 ---
 
-EAntonio is a lecturer at the Universidad Pontificia Bolivariana and a PhD candidate at the UOC.
+Antonio is a lecturer at the Universidad Pontificia Bolivariana and a PhD candidate at the UOC.
 
 
 
