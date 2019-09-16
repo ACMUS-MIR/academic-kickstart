@@ -78,6 +78,7 @@ user_groups:
 José Ricardo Zapata is a lecturer and MIR researcher at the Faculty of Information and Communication Technologies (TIC) in Universidad Pontificia Bolivariana (UPB) and researcher at GIDATIC
 
 My research interests are based around Data science and Sound and music information technologies, which includes Music information retrieval, Machine Learning, Audio analysis and Data analysis.
+https://joserzapata.github.io/
 
 
 
