@@ -1,6 +1,6 @@
 +++
 # Date this page was created.
-date = "2019-06-23"
+#date = "2019-06-23"
 
 # Project title.
 title = "Ensemble Size Classification"
@@ -27,3 +27,8 @@ math = false
 #caption = "My caption :smile:"
 
 +++
+We aim to develop methods capable of automatically detecting the number of instruments playing in a given audio track/segment. 
+In this task,  we will  not only consider ensembles of instruments with very distinct characteristics (e.g. voice, guitar, percussion) 
+but also ensembles of instruments with very similar spectral characteristics (e.g. string instruments such as guitar, tiple, bandola)
+
+For more information please contact [Sascha Grollmisch] ({{< ref "authors/goh/_index.md" >}}).

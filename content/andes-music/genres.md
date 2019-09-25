@@ -6,13 +6,13 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 15  # Order that this section will appear.
+weight = 10  # Order that this section will appear.
 share = false
 profile = false
-date = "2019-06-23"
+#date = "2019-06-23"
 
 
-title = "ACMUS-MIR DATASET"
+title = "Genres"
 subtitle = ""
 
 [design]
@@ -51,16 +51,17 @@ subtitle = ""
  css_class = ""
 +++
 
-![Andes region of Colombia](/img/andes.png#floatright)
-The ACMUS-MIR datas set is a growing collection of annotated music from the [Andes region of Colombia]({{< ref "/andes-music/index.md" >}}). The data set was compiled with the goal of supporting the different MIR task addressed in our project: 
 
-- [Meter extraction]({{< ref "/project/meterextraction.md" >}})
-- [Instrumental format recognition]({{< ref "/project/ensemblesize.md" >}}) 
-- [Scale detection in music]({{< ref "/project/scale.md" >}})
+The rhythms (genres) performed in Colombian Andean music can be broadly categorized in 3 types:
 
-For each of these 3 tasks, a dedicated collection of music was compiled and annotated by musicologist in Colombia. The ACMUS-MIR data set has been made publicly available for the wider research community as a Zenodo repository [here](https://zenodo.org/record/3268961#.XShkTo8RVPZ).
+1. <mark>Waltz</mark> The first group includes derivations of the European Hispanic ternary colonial songbook [^1] whose genre with the greatest impact in America has been the waltz, but also includes other salon genres and peasant dances. 
+Besides the waltzes themselves, this group also includes pasillos and guabinas, among others. [^1] Footnote
 
-For more information about the ACMUS-MIR dataset or about the music in the Músicas Regionales Archive, please contact [Fernando Mora] ({{< ref "authors/mora/_index.md" >}}).
+2. <mark>Bambuco</mark> The second group includes the bambuco, considered one of the *national rhythms*, which presents typical characteristics  of ancient Iberian Hispanic and Colombian peasant dances, 
+typified as sesquialteras, whose main characteristics is the bi-metric behavior (3/4 - 6/8) within the melodic line or between the melody line and the rhythmic-harmonic accompaniment.
 
+3. <mark>Danza</mark> The third large group includes the genre called danza, which comes from the habaneras connected to the European Hispanic contradanzas. 
+The main rhythmic characteristic of Colombian danza is its simple binary metric, the occasional *stressing* of the first pulse and an accompanying rhythmic pattern as illustrated in Figure below.
 
+![Colombian music rhythms](/img/patterns.png#center)
 

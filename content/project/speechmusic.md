@@ -27,4 +27,9 @@ math = false
 #caption = "My caption :smile:"
 
 +++
+We aim to develop methods to distinguish speech data from music data, and further provide fine-grained classification labels such as instrumental music or vocal music.
+Additionally, we aim to characterize in more detail the melodic and prosodic elements of a number of vocal expressions found in certain regions of Colombia. 
+
+For more information please contact [Christian Kehling] ({{< ref "authors/kehling/_index.md" >}}). 
+
 

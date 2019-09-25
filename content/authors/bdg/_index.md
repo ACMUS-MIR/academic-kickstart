@@ -1,40 +1,43 @@
 ---
 # Display name
-name: Antonio Escamilla
+name: Prof. Karlheinz Brandenburg
 
 # Username (this should match the folder name)
 authors:
-- escamilla
+- bdg
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Universidad Pontificia Bolivariana
+role: TU Ilmenau
 
 # Organizations/Affiliations
 organizations:
 - name: ""
-  url: ""
+  url: "https://www.tu-ilmenau.de/en/electronic-media-technology/team/brandenburg-karlheinz/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: MIR
+bio: Audio Coding
 
 #interests:
 #- Music Information Retrieval 
 
 
 #education:
-#  courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
-#    year: 2012
-#  - course: MEng in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
+# courses:
+#  - course: PhD in Media Technology
+#    institution: Fraunhofer IDMT - TU Ilmenau
+#    year: 2014
+#  - course: MSc in Music Engineering
+#    institution: University of Miami
 #    year: 2009
-#  - course: BSc in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2008
+#  - course: BA in Music Saxophone
+#    institution: Universidad de Antioquia
+#    year: 2007
+#  - course: BSc in Electronic Engineering
+#    institution: Universidad Pontificia Bolivariana
+#    year: 2005
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -43,13 +46,13 @@ bio: MIR
 social:
 #- icon: envelope
 #  icon_pack: fas
-#  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+#  link: mailto:cano@idmt.fraunhofer.de
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/ecanoc
 #- icon: google-scholar
 #  icon_pack: ai
-#  link: https://scholar.google.com/citations?user=l7cDVbIAAAAJ&hl=en
+#  link: https://scholar.google.com.sg/citations?user=a9nMg8sAAAAJ&hl=th
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/ecanoc
@@ -60,22 +63,17 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
-  
+#email: "cano@idmt.fraunhofer.de"
+ 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- PhD Students
+- Professors
 
-#gallery_item:
+# gallery_item:
 #- album: gallery
 #  image: tui.png
 #  caption: A caption
 ---
 
-Antonio is a lecturer at the Universidad Pontificia Bolivariana and a PhD candidate at the UOC.
-
-
-
- 
- 
+<meta http-equiv="Refresh" content="0; url=https://www.tu-ilmenau.de/en/electronic-media-technology/team/brandenburg-karlheinz/">

@@ -71,11 +71,11 @@ user_groups:
 #  caption: A caption
 ---
 
-The ACMus project explores the use of machine learning techniques for computational musicology, digital music archive managment, and music information retrieval:  
+The ACMus project explores the use of machine learning techniques for computational musicology, digital music archive management, and music information retrieval:  
 
 Two main elements are the core of our project:  
 1. Emphasis on semi-supervised and unsupervised machine learning techniques that minimally rely on the availability of annotated data for a specific task.  
-2. Traditional Colombian music as the main focus of our study.
+2. Traditional [Colombian music]({{< ref "/andes-music/index.md" >}}) from the Andes region as the main focus of our study.
 
 
 ![DFG](/img/dfg.png)
