@@ -83,7 +83,10 @@ user_groups:
 #  caption: A caption
 ---
 
-I am a musician, teacher and researcher at "Músicas Regionales" group at Universidad de Antioquia. My work is about Latin American music and composition of music with technologies. I have write books about music of Andean region of Colombia. As an Engeneer I work in developmentes related with music composition, music archives, Machine Learning and Music Information Retrieval.
+I am a musician, teacher and researcher at the Músicas Regionales group at Universidad de Antioquia. 
+My work  focuses on Latin American music and composition of music with technologies. 
+I have written books about music of Andean region of Colombia. 
+As an engineer, my work is related to music composition, music archives, machine learning and music information retrieval (MIR).
 
 
 

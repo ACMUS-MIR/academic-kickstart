@@ -53,13 +53,14 @@ subtitle = ""
 
 
 * Duos
- * 2 tiples
+ * [2 tiples](https://www.youtube.com/watch?v=cF-DmCqE9iA)
  * 2 guitars
- * 1 tiple, 1 bandola
+ * [1 tiple, 1 bandola](https://www.youtube.com/watch?v=fUJ7rDDUNbI)
 
 * Trios
- * 1 tiple requinto, 1 tiple, 1 guitar
- * 1 bandola, 1 tiple, 1 guitar
+ * [Colombian intrumental trio: 1 bandola, 1 tiple, 1 guitar](https://www.youtube.com/watch?v=ezTS1aCPXC4)
+ * [Trio Santandereano: 1 tiple requinto, 1 tiple, 1 guitar](https://www.youtube.com/watch?v=z_QMkikkrNQ&t=466s)
+ 
 
 * Quartet
  * 2 bandolas, 1 tiple, 1 guitar
@@ -67,29 +68,7 @@ subtitle = ""
 * Quintet
  * 3 bandolas, 1 tiple, 1 guitar
 
-* Large Ensemble (estudiantina)
+* Large Ensembles   
+ * [Estudiantina](https://www.youtube.com/watch?v=ZIrVK6QYXik)
+  
 
-**Examples**
-
- The following links show some videos about traditional music from Colombian Andean Region, more specifically, Traditional plucked strings as Bandola, Tiple, Guitar and “Flautas caucanas” (woodwind instruments). There are ensembles (trio, cuarteto, estudiantina, chirimía, etc.) and soloist performers. 
- 
- 1. [A piece for Bandola solo] (https://www.youtube.com/watch?v=_I13NlZeVbQ)
- 2. [Colombian instrumental trio] (https://www.youtube.com/watch?v=ezTS1aCPXC4)
- 3. [Bandola and guitar duet ](https://youtu.be/Ur4YciSNL2Q)
- 4. [Another instrumental trio with bandola, tiple and guitar](https://www.youtube.com/watch?v=xo2jtSiirg8)  
- 5. [This is another kind of trio. Trío santandereano with tiple, tiple requinto -who plays the melody- and guitar)](https://www.youtube.com/watch?v=z_QMkikkrNQ&t=466s)
- 6. [trio (bandola, tiple and guitar) ](https://www.youtube.com/watch?v=F1_tNOnvlG0)
- 7.[Estudiantina, an ensemble of plucked strings (guitar, bandola, tiple, double bass and some percussion instruments)](https://www.youtube.com/watch?v=ZIrVK6QYXik)
- 8. [A piece for tiple solo](https://www.youtube.com/watch?v=tHv7ZwF5rrU) 
- 9. [Another piece for tiple solo](https://www.youtube.com/watch?v=69n3rHrNklI)
- 10. [Tiple and bandola duet](https://www.youtube.com/watch?v=fUJ7rDDUNbI)
- 11. [In this ensemble there are traditional plucked strings and some brass and woodwinds instruments ](https://www.youtube.com/watch?v=dpg54YadHJ8)
- 12. [An ensemble of bandolas ](https://www.youtube.com/watch?v=JBxOB_iyqcI)
- 13. [Another trio santandereano](https://www.youtube.com/watch?v=x7HCZMs-J84)
- 14. [Solo guitar playing a Bambuco](https://www.youtube.com/watch?v=9isddPpg8yA)
- 15. [A duet of tiples](https://www.youtube.com/watch?v=cF-DmCqE9iA)
- 16. [Trio: tiple requinto, tiple and guitar ](https://www.youtube.com/watch?v=yvT1GAm2tFQ) 
- 17. [Flauta Caucana and some drums percusion](https://www.youtube.com/watch?v=s3keTSjBPZQ)
- 18. [“Chirimía” performing a bambuco with dancers](https://www.youtube.com/watch?v=m4A1dEagH60)
- 19. [Chirimía performing in the street](https://www.youtube.com/watch?v=DIaREOPsP4I)
- 
