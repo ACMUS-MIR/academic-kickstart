@@ -38,7 +38,7 @@ featured: false
 url_pdf:
 url_code:
 url_dataset: https://doi.org/10.5281/zenodo.3268961
-url_poster:
+url_poster: "poster_dlfm.pdf"
 url_project:
 url_slides:
 url_source:
