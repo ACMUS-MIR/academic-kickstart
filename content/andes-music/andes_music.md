@@ -56,6 +56,6 @@ The Colombian Andes is one of the five major geographical and cultural regions i
 
 Generally speaking, the notion of Colombian Andean music comprises an instrumental ensemble of plucked strings (tiple, bandola, guitar) and occasionally small percussion. 
 This format has become widespread throughout the region, mainly being used to perform pasillos, bambucos, guabinas, dances. 
-These  and their repertoires coexist between the traditional-popular and academic worlds, with clear tendencies towards the chamber music paradigm. 
+These music genres and their repertoires coexist between the traditional-popular and academic worlds, with clear tendencies towards the chamber music paradigm. 
 
 

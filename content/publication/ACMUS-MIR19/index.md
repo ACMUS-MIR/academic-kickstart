@@ -19,7 +19,13 @@ publication_types: ["1"]
 publication: "In *DLfM* 2019"
 publication_short: "In *DLfM*"
 
-abstract : "The music from the Andean region of Colombia has many particularities in terms of tempo, meter complexity and sesquialteras, tuning systems, scales, timbre, and texture. These particularities make its analysis with  state-of-the-art music information retrieval (MIR) methods both interesting and challenging. To support future research efforts in the context of Andean Colombian music, a new public data set was compiled and annotated by expert musicologists in Colombia. Our collection comprises three subsets: (1) The \textit{rhythm set} with tempo and meter annotations, (2) the \textit{instrumental format set} including number and types of instruments for each recording, and (3) the \textit{scale set} reporting the musical scale of each audio segment. The data set was conceived with the goal of supporting the development of MIR techniques better suited for extraction of semantic information in Andean Colombian music. We hope that our data set will also encourage a wide range of studies in the fields of musicology, ethnomusicology, and music information retrieval."
+abstract : "The music from the Andean region of Colombia has many particularities in terms of tempo, meter complexity and sesquialteras, tuning systems, scales, timbre, and texture. 
+These particularities make its analysis with  state-of-the-art music information retrieval (MIR) methods both interesting and challenging. 
+To support future research efforts in the context of Andean Colombian music, a new public data set was compiled and annotated by expert musicologists in Colombia.
+Our collection comprises three subsets: (1) The *rhythm set* with tempo and meter annotations, (2) the *instrumental format set* including number and types of instruments for each recording, 
+and (3) the *scale set* reporting the musical scale of each audio segment. 
+The data set was conceived with the goal of supporting the development of MIR techniques better suited for extraction of semantic information in Andean Colombian music. 
+We hope that our data set will also encourage a wide range of studies in the fields of musicology, ethnomusicology, and music information retrieval."
 # Summary. An optional shortened abstract.
 summary: ""
 
@@ -35,7 +41,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: https://dlsi.ua.es/gent/drizo/dlfm2019/mora.pdf
 url_code:
 url_dataset: https://doi.org/10.5281/zenodo.3268961
 url_poster: "poster_dlfm.pdf"
