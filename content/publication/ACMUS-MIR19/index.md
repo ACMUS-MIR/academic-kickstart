@@ -26,6 +26,7 @@ Our collection comprises three subsets: (1) The *rhythm set* with tempo and mete
 and (3) the *scale set* reporting the musical scale of each audio segment. 
 The data set was conceived with the goal of supporting the development of MIR techniques better suited for extraction of semantic information in Andean Colombian music. 
 We hope that our data set will also encourage a wide range of studies in the fields of musicology, ethnomusicology, and music information retrieval."
+
 # Summary. An optional shortened abstract.
 summary: ""
 
