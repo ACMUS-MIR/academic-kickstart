@@ -67,3 +67,7 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+
+Detailed Results  can be found in [here]({{< ref "/embeddings-20/index.md" >}}).
+
+
