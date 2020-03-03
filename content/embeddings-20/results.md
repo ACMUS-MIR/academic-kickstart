@@ -53,34 +53,60 @@ subtitle = ""
 
 ## 1. Detailed Classification Results:
 
-The following diagram shows the classification results for all experiments ....
-![Andes region of Colombia](/img/andes_small.png)
+The following plot shows the classification results for all experiments based on the (best performing) SVM classifier (a). An alternative ordernig can be seen in (b) where results of the same task are neighbored. 
+
+(a)
+<img src="/img/embedding/results_diagram_All_Emb.png" alt="Embeddings SVM" border="0px" width="1000"/>
+
+(b)
+<img src="/img/embedding/results_diagram_All_Emb_taskwise.png" alt="Embeddings by task SVM" width="1000"/>
+
+Overall averaged results by embedding can be seen in the following figure. One can observe that OpenL3 embeddings outperform all other embeddings as well as the baseline:  
+
+<img src="/img/embedding/avrg_svm_embeddings_results.png" alt="Avrg Embedding SVM" width="600"/>
+<br/>
 
 ## 2. Tables containing full results
+<br/>
+Here a detailed view of all classification results for each classifier-task combination can be seen. In table I results are shown when using 80% of the dataset for training followed by 10% of the set for training (table II) to point out the difference of small amounts of data available. Table III shows results early fusion classifiers versus the best late fusion approach. Table IV
 
-The following diagram shows the classification results for all experiments ....
-![Andes region of Colombia](/img/andes_small.png)
+<table>
+  <tr>
+    <td style=" border:0px; background-color:white; padding:13px"><img src="/img/embedding/res_80.png" alt="Avrg Embedding SVM" width="530"/></td>
+	<td style=" border:0px; background-color:white"><img src="/img/embedding/res_10.png" alt="Avrg Embedding SVM" width="500"/></td>
+  </tr>
+  <tr>
+	<td style="border:0px;" colspan="2"> I am wondering what is happening when I write some tesxt in here and how it looks like when its bigger than one coloum </td>
+  </tr>
+  <tr>
+    <td style=" border:0px; background-color:white; padding-left:40px"><img src="/img/embedding/res_fusion.png" alt="Avrg Embedding SVM" width="500"/></td>
+	<td style=" border:0px; background-color:white"><img src="/img/embedding/res_domain.png" alt="Avrg Embedding SVM" width="500"/></br>
+	<img src="/img/embedding/res_size.png" alt="Avrg Embedding SVM" width="500"/>
+	</td>
+  </tr>
+</table>
 
-The following diagram shows the classification results for all experiments ....
-![Andes region of Colombia](/img/andes_small.png)
 
-The following diagram shows the classification results for all experiments ....
-![Andes region of Colombia](/img/andes_small.png)
+
 
 
 ## 3. Confidence Matrices
 
-The following diagram shows the classification results for all experiments ....
-![Andes region of Colombia](/img/andes_small.png)
+txt follows or not
 
-The following diagram shows the classification results for all experiments ....
-![Andes region of Colombia](/img/andes_small.png)
-
-The following diagram shows the classification results for all experiments ....
-![Andes region of Colombia](/img/andes_small.png)
+<img src="/img/embedding/t1_conf_late_o3_svm.png" alt="Avrg Embedding SVM" width="500"/>
+<img src="/img/embedding/t2_conf_late_o3_svm.png" alt="Avrg Embedding SVM" width="500"/>
+<img src="/img/embedding/t3_conf_late_o3_svm.png" alt="Avrg Embedding SVM" width="500"/>
+<img src="/img/embedding/t4_conf_late_o3_svm.png" alt="Avrg Embedding SVM" width="500"/>
+<img src="/img/embedding/t5_conf_late_o3_svm.png" alt="Avrg Embedding SVM" width="500"/>
+<img src="/img/embedding/t6_conf_early_o3_svm.png" alt="Avrg Embedding SVM" width="500"/>
+<img src="/img/embedding/t6_conf_late_o3_svm.png" alt="Avrg Embedding SVM" width="500"/>
 
 
 ## 4. Baseline models
 
 The following diagram shows the classification results for all experiments ....
-![Andes region of Colombia](/img/andes_small.png)
+
+<img src="/img/embedding/cnn_flow_han_mod.png" alt="Avrg Embedding SVM" width="500"/>
+
+
