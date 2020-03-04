@@ -68,7 +68,7 @@ Overall averaged results by embedding can be seen in the following figure. One c
 
 ## 2. Tables containing full results
 <br/>
-Here a detailed view of all classification results for each classifier-task combination can be seen. In table I results are shown when using 80% of the dataset for training followed by 10% of the set for training (table II) to point out the difference of small amounts of data available. Table III shows results early fusion classifiers versus the best late fusion approach. Table IV
+Here a detailed view of all classification results for each classifier-task combination can be seen. In table I results are shown when using 80% of the dataset for training followed by 10% of the set for training (table II) to point out the difference of small amounts of data available. 
 
 <table>
   <tr>
@@ -76,37 +76,62 @@ Here a detailed view of all classification results for each classifier-task comb
 	<td style=" border:0px; background-color:white"><img src="/img/embedding/res_10.png" alt="Avrg Embedding SVM" width="500"/></td>
   </tr>
   <tr>
-	<td style="border:0px;" colspan="2"> I am wondering what is happening when I write some tesxt in here and how it looks like when its bigger than one coloum </td>
+	<td style="border:0px;" colspan="2"> Table III shows results early fusion classifiers versus the best late fusion approach. Despite of task 6 late fusion is performing best on all experiments. The comparison of different OpenL3 embeddings are places in table IV. As can be seen environmental embeddings perform constantly worse compared to music, and hence style related embeddings. Last table V illustrates the results of standard size OpenL3 embeddings with 256 units and large size embeddings of 6144 units. Apart from task 1 large size embeddings perform better but are also expensive in terms of computational costs. </td>
   </tr>
   <tr>
-    <td style=" border:0px; background-color:white; padding-left:40px"><img src="/img/embedding/res_fusion.png" alt="Avrg Embedding SVM" width="500"/></td>
+    <td style=" border:0px; background-color:white; padding-left:10px"><img src="/img/embedding/res_fusion.png" alt="Avrg Embedding SVM" width="530"/></td>
 	<td style=" border:0px; background-color:white"><img src="/img/embedding/res_domain.png" alt="Avrg Embedding SVM" width="500"/></br>
 	<img src="/img/embedding/res_size.png" alt="Avrg Embedding SVM" width="500"/>
 	</td>
   </tr>
 </table>
 
-
-
-
-
 ## 3. Confidence Matrices
 
-txt follows or not
+In this section the confusion matrices of all tasks are displayed. Each matrix shows mean filewise accuracy of the corresponding classification task. 
 
-<img src="/img/embedding/t1_conf_late_o3_svm.png" alt="Avrg Embedding SVM" width="500"/>
-<img src="/img/embedding/t2_conf_late_o3_svm.png" alt="Avrg Embedding SVM" width="500"/>
-<img src="/img/embedding/t3_conf_late_o3_svm.png" alt="Avrg Embedding SVM" width="500"/>
-<img src="/img/embedding/t4_conf_late_o3_svm.png" alt="Avrg Embedding SVM" width="500"/>
-<img src="/img/embedding/t5_conf_late_o3_svm.png" alt="Avrg Embedding SVM" width="500"/>
-<img src="/img/embedding/t6_conf_early_o3_svm.png" alt="Avrg Embedding SVM" width="500"/>
-<img src="/img/embedding/t6_conf_late_o3_svm.png" alt="Avrg Embedding SVM" width="500"/>
+<table>
+  <tr>
+    <td style=" border:0px; background-color:white"><img src="/img/embedding/t1_conf_late_o3_svm.png" alt="Avrg Embedding SVM" width="500"/></br>
+	Task 1 - Ensemble Size Classification in Music</td>
+    <td style=" border:0px; background-color:white"><img src="/img/embedding/t2_conf_late_o3_svm.png" alt="Avrg Embedding SVM" width="500"/></br>
+	Task 2 -  Musical  Instrument  Family  Recognition</td>
+  </tr>
+  <tr>
+    <td style=" border:0px; background-color:white"><img src="/img/embedding/t3_conf_late_o3_svm.png" alt="Avrg Embedding SVM" width="500"/></br>
+	Task 3 - Speech Music Classification</td>
+    <td style=" border:0px; background-color:white"><img src="/img/embedding/t4_conf_late_o3_svm.png" alt="Avrg Embedding SVM" width="500"/></br>
+	Task 4 - Classification  of  Operational  States  in  Elec-tric   Engines</td>
+  </tr>
+  <tr>
+    <td style=" border:0px; background-color:white"><img src="/img/embedding/t5_conf_late_o3_svm.png" alt="Avrg Embedding SVM" width="500"/></br>
+	Task 5 - Metal  Surface  Classification</td>
+    <td style=" border:0px; background-color:white"><img src="/img/embedding/t6_conf_late_o3_svm.png" alt="Avrg Embedding SVM" width="500"/></br>
+	Task 6 - Plastic  Material  Classification</td>
+  </tr>
+  <tr>
+    <td style=" border:0px; background-color:white"><img src="/img/embedding/t6_conf_early_o3_svm.png" alt="Avrg Embedding SVM" width="500"/></br>
+	Task 6 - Plastic  Material  Classification (Early Fusion)</td>
+    <td style=" border:0px; background-color:white"><img src="/img/embedding/t6_conf_late_o3_svm.png" alt="Avrg Embedding SVM" width="500"/></br>
+	Task 6 - Plastic  Material  Classification (Late Fusion)</td>
+  </tr>
+</table>
 
 
 ## 4. Baseline models
 
-The following diagram shows the classification results for all experiments ....
+Here the baseline model of task 2 (Musical  Instrument  Family  Recognition) can be seen. 
 
-<img src="/img/embedding/cnn_flow_han_mod.png" alt="Avrg Embedding SVM" width="500"/>
+The upper two plots show the actual used model for this publication. In contrast to the original model (below) each convolutional block has only half of the layers (two  of  the  original  four  convolutional  blocks have been removed) and after each block batch normalization is applied. Dropout has been moved to the end of the model to avoid overfitting. Finally the Sigmoid classifier has been replaced with a softmax classifier since the application is a single lable task. 
+
+The lower two plots describe the original model from Han et. al (Y. Han, J. Kim, and K. Lee, “Deep Convolutional Neural Networks forPredominant Instrument Recognition in Polyphonic Music,”IEEE/ACMTransactions on Audio, Speech, and Language Processing, vol. PP, 2016.). 
+
+The upper two and the lower two plots differ only in appearance, one is wrapped because of the repeating model parts, but mean the same model.  
+
+<img src="/img/embedding/cnn_flow_han_mod.png" alt="Avrg Embedding SVM" width="600"/>
+
+the following image displays the baseline model used for the remaining tasks and is a simple CNN with 4 convolutional layers with a 3x3 kernel and a fully connected (dense) layer at the end. Max Pooling and dropout is applied after each block and a softmax classifier is used. The number of filters doubles in each conv. block and starts with 16.
+
+<img src="/img/embedding/cnn_flow_nice.png" alt="Avrg Embedding SVM" width="600"/>
 
 
