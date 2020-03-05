@@ -53,7 +53,7 @@ subtitle = ""
 
 ## 1. Detailed Classification Results:
 
-The following plot shows the classification results for all experiments based on the (best performing) SVM classifier (a). An alternative ordernig can be seen in (b) where results of the same task are neighbored. 
+The following plot shows the classification results for all experiments based on the (best performing) lineaar SVM classifier (a). An alternative ordernig can be seen in (b) where results of the same task are neighbored. 
 
 (a)
 <img src="/img/embedding/results_diagram_All_Emb.png" alt="Embeddings SVM" border="0px" width="1000"/>
@@ -61,14 +61,14 @@ The following plot shows the classification results for all experiments based on
 (b)
 <img src="/img/embedding/results_diagram_All_Emb_taskwise.png" alt="Embeddings by task SVM" width="1000"/>
 
-Overall averaged results by embedding can be seen in the following figure. One can observe that OpenL3 embeddings outperform all other embeddings as well as the baseline:  
+Overall averaged results for each embedding using linear SVM can be seen in the following figure. One can observe that OpenL3 embeddings outperform all other embeddings and performs nearly similar to the baseline:  
 
 <img src="/img/embedding/avrg_svm_embeddings_results.png" alt="Avrg Embedding SVM" width="600"/>
 <br/>
 
-## 2. Tables containing full results
+## 2. Tables containing detailed results
 <br/>
-Here a detailed view of all classification results for each classifier-task combination can be seen. In table I results are shown when using 80% of the dataset for training followed by 10% of the set for training (table II) to point out the difference of small amounts of data available. 
+The following tables contain detailed results for each classifier-task combination can be seen. Table I shows results when using 80% of the dataset for training. Table II displays the results using only 10% of the set for training to point out the difference between embeddings and baseline for small datasets. Here OpenL3 combined with a linear SVM outperforms the other embeddings as well as the baseline. 
 
 <table>
   <tr>
@@ -76,7 +76,7 @@ Here a detailed view of all classification results for each classifier-task comb
 	<td style=" border:0px; background-color:white"><img src="/img/embedding/res_10.png" alt="Avrg Embedding SVM" width="500"/></td>
   </tr>
   <tr>
-	<td style="border:0px;" colspan="2"> Table III shows results early fusion classifiers versus the best late fusion approach. Despite of task 6 late fusion is performing best on all experiments. The comparison of different OpenL3 embeddings are places in table IV. As can be seen environmental embeddings perform constantly worse compared to music, and hence style related embeddings. Last table V illustrates the results of standard size OpenL3 embeddings with 256 units and large size embeddings of 6144 units. Apart from task 1 large size embeddings perform better but are also expensive in terms of computational costs. </td>
+	<td style="border:0px;" colspan="2"> Table III shows results of early fusion versus late fusion approach. Despite of task 6 late fusion is performing best on all experiments. The comparison of different OpenL3 embeddings are placed in table IV. Environmental embeddings perform constantly worse compared to the one trained on the music domain. Table V illustrates the results of standard size OpenL3 embeddings with 512 values and larger embeddings consisting of 6144 values. Apart from task 1 large size embeddings perform slightly better but are also expensive in terms of computational costs. Also the best combination between between size and classifier varies making 512 output values and linear SVM classifier the best combination on average.</td>
   </tr>
   <tr>
     <td style=" border:0px; background-color:white; padding-left:10px"><img src="/img/embedding/res_fusion.png" alt="Avrg Embedding SVM" width="530"/></td>
@@ -101,7 +101,7 @@ In this section the confusion matrices of all tasks are displayed. Each matrix s
     <td style=" border:0px; background-color:white"><img src="/img/embedding/t3_conf_late_o3_svm.png" alt="Avrg Embedding SVM" width="500"/></br>
 	Task 3 - Speech Music Classification</td>
     <td style=" border:0px; background-color:white"><img src="/img/embedding/t4_conf_late_o3_svm.png" alt="Avrg Embedding SVM" width="500"/></br>
-	Task 4 - Classification  of  Operational  States  in  Elec-tric   Engines</td>
+	Task 4 - Classification  of  Operational  States  in  Electric   Engines</td>
   </tr>
   <tr>
     <td style=" border:0px; background-color:white"><img src="/img/embedding/t5_conf_late_o3_svm.png" alt="Avrg Embedding SVM" width="500"/></br>
@@ -122,15 +122,15 @@ In this section the confusion matrices of all tasks are displayed. Each matrix s
 
 Here the baseline model of task 2 (Musical  Instrument  Family  Recognition) can be seen. 
 
-The upper two plots show the actual used model for this publication. In contrast to the original model (below) each convolutional block has only half of the layers (two  of  the  original  four  convolutional  blocks have been removed) and after each block batch normalization is applied. Dropout has been moved to the end of the model to avoid overfitting. Finally the Sigmoid classifier has been replaced with a softmax classifier since the application is a single lable task. 
-
-The lower two plots describe the original model from Han et. al (Y. Han, J. Kim, and K. Lee, “Deep Convolutional Neural Networks forPredominant Instrument Recognition in Polyphonic Music,”IEEE/ACMTransactions on Audio, Speech, and Language Processing, vol. PP, 2016.). 
-
-The upper two and the lower two plots differ only in appearance, one is wrapped because of the repeating model parts, but mean the same model.  
+The first plot shows the actual model used for this publication. In contrast to the original model (below) each convolutional block has only half of the layers (two  of  the  original  four  convolutional  blocks have been removed) and after each block batch normalization is applied. Dropout has been moved to the end of the model to avoid overfitting. Finally, the Sigmoid activation has been replaced with a softmax activation in the output layer since the application is a single label task. 
 
 <img src="/img/embedding/cnn_flow_han_mod.png" alt="Avrg Embedding SVM" width="600"/>
 
-the following image displays the baseline model used for the remaining tasks and is a simple CNN with 4 convolutional layers with a 3x3 kernel and a fully connected (dense) layer at the end. Max Pooling and dropout is applied after each block and a softmax classifier is used. The number of filters doubles in each conv. block and starts with 16.
+The second plot describes the original model from Han et. al (Y. Han, J. Kim, and K. Lee, “Deep Convolutional Neural Networks forPredominant Instrument Recognition in Polyphonic Music,”IEEE/ACMTransactions on Audio, Speech, and Language Processing, vol. PP, 2016.). 
+
+<img src="/img/embedding/cnn_flow_han_orig.png" alt="Avrg Embedding SVM" width="600"/>
+
+The following image shows the baseline model used for the task1 and task 3. It is a CNN with 4 convolutional layers with a 3x3 kernel and a fully connected (dense) layer at the end. Max Pooling and dropout is applied after each block and a softmax activation is used for the output layer. The number of filters doubles in each conv. block and starts with 16.
 
 <img src="/img/embedding/cnn_flow_nice.png" alt="Avrg Embedding SVM" width="600"/>
 
