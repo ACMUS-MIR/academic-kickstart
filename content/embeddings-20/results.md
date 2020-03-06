@@ -56,10 +56,10 @@ subtitle = ""
 The following plot shows the classification results for all experiments based on the (best performing) lineaar SVM classifier (a). An alternative ordernig can be seen in (b) where results of the same task are neighbored. 
 
 (a)
-<img src="/img/embedding/results_diagram_All_Emb.png" alt="Embeddings SVM" border="0px" width="1000"/>
+<img src="/img/embedding/results_diagram_All_Emb.png" alt="Embeddings SVM" border="0px" width="900"/>
 
 (b)
-<img src="/img/embedding/results_diagram_All_Emb_taskwise.png" alt="Embeddings by task SVM" width="1000"/>
+<img src="/img/embedding/results_diagram_All_Emb_taskwise.png" alt="Embeddings by task SVM" width="900"/>
 
 Overall averaged results for each embedding using linear SVM can be seen in the following figure. One can observe that OpenL3 embeddings outperform all other embeddings and performs nearly similar to the baseline:  
 
@@ -72,7 +72,7 @@ The following tables contain detailed results for each classifier-task combinati
 
 <table>
   <tr>
-    <td style=" border:0px; background-color:white; padding:13px"><img src="/img/embedding/res_80.png" alt="Avrg Embedding SVM" width="530"/></td>
+    <td style=" border:0px; background-color:white; padding:7px"><img src="/img/embedding/res_80.png" alt="Avrg Embedding SVM" width="500"/></td>
 	<td style=" border:0px; background-color:white"><img src="/img/embedding/res_10.png" alt="Avrg Embedding SVM" width="500"/></td>
   </tr>
   <tr>
@@ -126,7 +126,7 @@ The first plot shows the actual model used for this publication. In contrast to 
 
 <img src="/img/embedding/cnn_flow_han_mod.png" alt="Avrg Embedding SVM" width="600"/>
 
-The second plot describes the original model from Han et. al (Y. Han, J. Kim, and K. Lee, “Deep Convolutional Neural Networks forPredominant Instrument Recognition in Polyphonic Music,”IEEE/ACMTransactions on Audio, Speech, and Language Processing, vol. PP, 2016.). 
+The second plot below describes the original model from Han et. al [Y. Han, J. Kim, and K. Lee, “Deep Convolutional Neural Networks for Predominant Instrument Recognition in Polyphonic Music,”IEEE/ACMTransactions on Audio, Speech, and Language Processing, vol. PP, 2016.](https://arxiv.org/pdf/1605.09507) 
 
 <img src="/img/embedding/cnn_flow_han_orig.png" alt="Avrg Embedding SVM" width="600"/>
 
