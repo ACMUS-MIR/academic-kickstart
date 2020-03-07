@@ -68,6 +68,12 @@ projects: []
 slides: ""
 ---
 
-Detailed Results  can be found in [here]({{< ref "/embeddings-20/index.md" >}}).
+Detailed results can be found in [here]({{< ref "/embeddings-20/index.md" >}}). For specific sections see below:
+
+1. [Detailed classification results]({{< ref "/embeddings-20/index.md#detailed" >}})
+2. [Detailed results tables]({{< ref "/embeddings-20/index.md#tables" >}})
+3. [Confusion matrices]({{< ref "/embeddings-20/index.md#matrices" >}})
+4. [Baseline models]({{< ref "/embeddings-20/index.md#baseline" >}})
+
 
 
