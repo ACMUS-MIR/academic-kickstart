@@ -42,7 +42,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://dlsi.ua.es/gent/drizo/dlfm2019/mora.pdf
+url_pdf:  
 url_code:
 url_dataset: https://doi.org/10.5281/zenodo.3268961
 url_poster: "poster_dlfm.pdf"

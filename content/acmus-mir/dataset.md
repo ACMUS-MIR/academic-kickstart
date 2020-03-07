@@ -60,7 +60,7 @@ For each of these 3 tasks, a dedicated collection of music was compiled and anno
 
 <img src="/img/acmus-mir.png" alt="[ACMUS-MIR data set]" height="400" width="400" >
 
-The ACMUS-MIR data set has been made publicly available for the wider research community as a Zenodo repository [here](https://zenodo.org/record/3268961#.XShkTo8RVPZ).
+The ACMUS-MIR data set has been made publicly available for the wider research community as a Zenodo repository [here](https://zenodo.org/record/3268961#.XShkTo8RVPZ). For a detailed description of the dataset, please refer to this [publication.]({{< ref "/publication/acmus-mir19/index.md" >}})
 
 
 ## Rhtyhm Set
