@@ -77,6 +77,7 @@ Two main elements are the core of our project:
 1. Emphasis on semi-supervised and unsupervised machine learning techniques that minimally rely on the availability of annotated data for a specific task.  
 2. Traditional [Colombian music]({{< ref "/andes-music/index.md" >}}) from the Andes region as the main focus of our study.
 
+If you wish to cite our project, please use this [citation](./publication/acmus19/cite.bib).
 
 ![DFG](/img/dfg.png)
  

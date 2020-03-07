@@ -24,7 +24,7 @@ This paper evaluates three state-of-the-art embeddings on six audio classificati
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: [Deep learning, Speech-music discrimination, Ensemble Size classification]
+tags: [Deep learning, Speech-music discrimination, Ensemble size classification, Instrument recognition]
 categories: []
 featured: false
 
