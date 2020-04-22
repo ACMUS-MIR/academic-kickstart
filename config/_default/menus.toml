@@ -28,6 +28,11 @@
   url = "acmus-mir/"
   weight = 50
 
+[[main]]
+  name = "Code" 
+  url = "https://github.com/ACMUS-MIR"
+  weight = 60
+
 
 #[[main]]
 # name = "Contact"
