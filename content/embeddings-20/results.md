@@ -56,6 +56,7 @@ subtitle = ""
 The following plot (a) shows the classification results for all experiments based on the (best performing) linear SVM classifier. An alternative ordernig can be seen in (b) where results of the same task are grouped together. 
 
 (a)
+
 <img src="/img/embedding/results_diagram_All_Emb.png" alt="Embeddings SVM" border="0px" width="900"/>
 
 (b)
