@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Fraunhofer IDMT
+role: Songquito
 
 # Organizations/Affiliations
 organizations:
@@ -46,7 +46,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:cano@idmt.fraunhofer.de
+  link: mailto:estefania.cano@songquito.com
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/ecanoc
@@ -56,6 +56,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/ecanoc
+- icon: orcid
+  icon_pack: fab
+  link: https://orcid.org/0000-0002-1056-5844
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv

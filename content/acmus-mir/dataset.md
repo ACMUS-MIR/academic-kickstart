@@ -157,7 +157,7 @@ Eb - Minor - 4 instruments <br>
   <source src="sc_0005.wav">
 </audio>
 
-For more information about the ACMUS-MIR dataset or about the music in the Músicas Regionales Archive, please contact [Fernando Mora] ({{< ref "authors/mora/_index.md" >}}).
+For more information about the ACMUS-MIR dataset or about the music in the Músicas Regionales Archive, please contact [Fernando Mora]({{< ref "authors/mora/_index.md" >}}).
 
 
 

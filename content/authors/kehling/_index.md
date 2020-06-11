@@ -50,6 +50,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com.sg/citations?user=d2c3zUMAAAAJ&hl=en&oi=ao
+- icon: orcid
+  icon_pack: fab
+  link: https://orcid.org/0000-0002-7828-503X
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/ecanoc
