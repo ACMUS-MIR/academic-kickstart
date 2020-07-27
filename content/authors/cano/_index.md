@@ -81,7 +81,7 @@ user_groups:
 
 I am a  research scientist at the Semantic Music Technologies group at Fraunhofer IDMT in Germany. My PhD work started off from my interest to apply MIR technologies in music education. 
 Since then, I have worked in sound source separation, music information retrieval, computational musicology, audio processing, among other research topics. Since 2012, I am the CSO and co-founder of Songquito, a small company that builds 
-music education apps such as [Song2See] (https://www.song2see.com). I have worked in a number of applied research projects with industry partners, as well as in European, German, and Asean research projects.
+music education apps such as [Song2See](https://www.song2see.com). I have worked in a number of applied research projects with industry partners, as well as in European, German, and Asean research projects.
 
 My research interests include:
 

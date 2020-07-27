@@ -49,6 +49,7 @@ subtitle = ""
  
  # CSS class.
  css_class = ""
+
 +++
 
 ![Andes region of Colombia](/img/andes.png#floatright)
@@ -66,7 +67,7 @@ The ACMUS-MIR data set has been made publicly available for the wider research c
 ## Rhtyhm Set
 Bambuco - 6/8 <br>
 <audio controls> 
-  <source src="rh_0001.wav">
+  <source src="rh_001.wav" type="audio/wav">
 </audio>
 
 Bambuco - 6/8 <br>

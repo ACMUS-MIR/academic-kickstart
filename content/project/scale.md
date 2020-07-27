@@ -31,5 +31,5 @@ math = false
 We aim to develop methods for scale and mode identification with special focus on music from the Colombian Andes.
 As part of this work, we will analyse musical traditions such as the Colombian Caucan flutes, which show tone/semitone distributions that fall outside of equal temperament.
 
-For more information please contact [Estefanía Cano] ({{< ref "authors/cano/_index.md" >}}).
+For more information please contact [Estefanía Cano]({{< ref "authors/cano/_index.md" >}}).
 

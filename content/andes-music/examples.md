@@ -60,8 +60,8 @@ subtitle = ""
  There are ensembles (trio, cuarteto, estudiantina, chirimía, etc.) and soloist performers. 
  
 
- 1. [A piece for Bandola solo] (https://www.youtube.com/watch?v=_I13NlZeVbQ)
- 2. [Colombian instrumental trio] (https://www.youtube.com/watch?v=ezTS1aCPXC4)
+ 1. [A piece for Bandola solo](https://www.youtube.com/watch?v=_I13NlZeVbQ)
+ 2. [Colombian instrumental trio](https://www.youtube.com/watch?v=ezTS1aCPXC4)
  3. [Bandola and guitar duet ](https://youtu.be/Ur4YciSNL2Q)
  4. [Another instrumental trio with bandola, tiple and guitar](https://www.youtube.com/watch?v=xo2jtSiirg8)  
  5. [This is another kind of trio. Trío santandereano with tiple, tiple requinto -who plays the melody- and guitar)](https://www.youtube.com/watch?v=z_QMkikkrNQ&t=466s)
