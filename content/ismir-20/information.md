@@ -65,5 +65,5 @@ Additional information about the characteristics of bambuco can be found in:
 
 ## 2. Survey details <a name="survey"></a>
 
-The unedited trasncripts of the surveys as well as a brief summary of the outcpmes can be found (in Spanish) [here](Survey_Bambuco.pdf).
+The unedited trasncripts of the surveys as well as a brief summary of the outcomes can be found (in Spanish) [here](Survey_Bambuco.pdf).
 
