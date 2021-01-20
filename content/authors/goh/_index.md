@@ -72,7 +72,8 @@ user_groups:
 
 ---
 
-Sascha is a research scientist at Fraunhofer IDMT.
+After finishing his engineering diploma in Media Technology in 2009 at the Ilmenau University of Technology, Sascha Grollmisch started his career as a software developer at the Fraunhofer IDMT. Motivated by his passion for music, he was later part of the spin-off company Sonqquito. Songquito is in charge of distribution of the music education software Songs2See, 
+developed within a long-term research project at Fraunhofer IDMT. For their effort in developing one of the first fully interactive music learning games, the Songquito team got awarded the Innovation- and Entrepreneur-prize from the German Society of Informatics. In the following years, Sascha’s interest and knowledge in automatic music and audio analysis grew stronger with several industry projects, changing his role from software developer to automatic audio analysis reseacher. With the ACMus research project Sascha started his PhD at Ilmenau University of Technology in 2019. His thesis focuses on few-shot and semi-supervised deep learning for audio classification tasks
 
  
  

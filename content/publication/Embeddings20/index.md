@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: 
+url_pdf: https://www.eurasip.org/Proceedings/Eusipco/Eusipco2020/pdfs/0000790.pdf
 url_code: https://github.com/ACMUS-MIR/ACMus-Models
 url_dataset:
 url_poster:
