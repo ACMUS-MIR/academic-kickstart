@@ -55,110 +55,90 @@ subtitle = ""
 ![Andes region of Colombia](/img/andes.png#floatright)
 The ACMUS-MIR datas set is a growing collection of annotated music from the [Andes region of Colombia]({{< ref "/andes-music/index.md" >}}). 
 The data set was compiled with the goal of supporting the different MIR task addressed in our project: [meter extraction]({{< ref "/project/meterextraction.md" >}}), 
-[instrumental format recognition]({{< ref "/project/ensemblesize.md" >}}), and [scale detection in music]({{< ref "/project/scale.md" >}}).
+[instrumental format recognition]({{< ref "/project/ensemblesize.md" >}}), [speech/music discrimination]({{< ref "/project/speechmusic.md" >}}) , and [scale detection in music]({{< ref "/project/scale.md" >}}).
 
 For each of these 3 tasks, a dedicated collection of music was compiled and annotated by musicologist in Colombia. 
 
 <img src="/img/acmus-mir.png" alt="[ACMUS-MIR data set]" height="400" width="400" >
 
-The ACMUS-MIR data set has been made publicly available for the wider research community as a Zenodo repository [here](https://zenodo.org/record/3268961#.XShkTo8RVPZ). For a detailed description of the dataset, please refer to this [publication.]({{< ref "/publication/acmus-mir19/index.md" >}})
+The ACMUS-MIR data set has been made publicly available for the wider research community as a Zenodo repository [here](https://zenodo.org/record/3268961#.XShkTo8RVPZ). For a detailed description of the dataset, please refer to our DLfM 2019 [publication.](https://dlsi.ua.es/gent/drizo/dlfm2019/mora.pdf)
 
 
 ## Rhtyhm Set
 Bambuco - 6/8 <br>
-<audio controls> 
-  <source src="/media/sc_0001.wav" type="audio/wav">
-</audio>
+{{< audio src="rh_0001.wav" >}}
+
 
 Bambuco - 6/8 <br>
-<audio controls> 
-  <source src="rh_0002.wav">
-</audio>
+{{< audio src="rh_0002.wav" >}}
+
 
 Bambuco - 6/8 <br>
-<audio controls> 
-  <source src="rh_0003.wav">
-</audio>
+{{< audio src="rh_0003.wav" >}}
+
 
 Guabina - 3/4 <br>
-<audio controls> 
-  <source src="rh_0004.wav">
-</audio>
+{{< audio src="rh_0004.wav" >}}
+
 
  Pasillo - 3/4 <br>
-<audio controls> 
-  <source src="rh_0005.wav">
-</audio>
+ {{< audio src="rh_0005.wav" >}}
+
 
 
 ## Instrumental Format Set 
 Solo tiple  <br>
-<audio controls> 
-  <source src="if_0112.wav">
-</audio>
+{{< audio src="if_0112.wav" >}}
+
 
 Solo bandola  <br>
-<audio controls> 
-  <source src="if_0134.wav">
-</audio>
+{{< audio src="if_0134.wav" >}}
+
 
 Solo guitar  <br>
-<audio controls> 
-  <source src="if_0015.wav">
-</audio>
+{{< audio src="if_0015.wav" >}}
+
 
 Duet - tiple, guitar <br>
-<audio controls> 
-  <source src="if_0056.wav">
-</audio>
+{{< audio src="if_0056.wav" >}}
+
 
 Trio - bandola, tiple, guitar <br>
-<audio controls> 
-  <source src="if_0162.wav">
-</audio>
+{{< audio src="if_0162.wav" >}}
+
 
 Quartet -  2 bandolas, tiple, guitar<br>
-<audio controls> 
-  <source src="if_0167.wav">
-</audio>
+{{< audio src="if_0167.wav" >}}
+
 
 Quintet - 2 bandolas, tiple, guitar, bass <br>
-<audio controls> 
-  <source src="if_0103.wav">
-</audio>
+{{< audio src="if_0103.wav" >}}
+
 
 Large ensemble <br>
-<audio controls> 
-  <source src="if_0113.wav">
-</audio>
+{{< audio src="if_0113.wav" >}}
+
 
 ## Scale Set
 Ab - Major - 4 instruments <br>
-<audio controls> 
-  <source src="sc_0001.wav">
-</audio>
+{{< audio src="sc_0001.wav" >}}
 
 Eb - Minor - 4 instruments <br>
-<audio controls> 
-  <source src="sc_0002.wav">
-</audio>
+{{< audio src="sc_0002.wav" >}}
+
 
 F - Major - 4 instruments <br>
-<audio controls> 
-  <source src="sc_0003.wav">
-</audio>
+{{< audio src="sc_0003.wav" >}}
+
 
 Bb - Major - 4 instruments <br>
-<audio controls> 
-  <source src="sc_0004.wav">
-</audio>
+{{< audio src="sc_0004.wav" >}}
+
 
 Eb - Minor - 4 instruments <br>
-<audio controls> 
-  <source src="sc_0005.wav">
-</audio>
+{{< audio src="sc_0005.wav" >}}
 
-For more information about the ACMUS-MIR dataset or about the music in the Músicas Regionales Archive, please contact [Fernando Mora]({{< ref "authors/mora/_index.md" >}}).
+
 
 
 

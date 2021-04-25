@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Estefanía Cano
+title: Estefanía Cano
 
 # Username (this should match the folder name)
 authors:

@@ -31,4 +31,3 @@ We aim to develop methods capable of automatically detecting the number of instr
 In this task,  we will  not only consider ensembles of instruments with very distinct characteristics (e.g. voice, guitar, percussion) 
 but also ensembles of instruments with very similar spectral characteristics (e.g. string instruments such as guitar, tiple, bandola)
 
-For more information please contact [Sascha Grollmisch]({{< ref "authors/goh/_index.md" >}}).

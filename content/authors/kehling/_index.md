@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Christian Kehling
+title: Christian Kehling
 
 # Username (this should match the folder name)
 authors:

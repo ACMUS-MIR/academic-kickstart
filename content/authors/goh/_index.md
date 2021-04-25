@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Sascha Grollmisch
+title: Sascha Grollmisch
 
 # Username (this should match the folder name)
 authors:

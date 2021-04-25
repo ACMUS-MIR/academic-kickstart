@@ -58,4 +58,10 @@ Generally speaking, the notion of Colombian Andean music comprises an instrument
 This format has become widespread throughout the region, mainly being used to perform pasillos, bambucos, guabinas, dances. 
 These music genres and their repertoires coexist between the traditional-popular and academic worlds, with clear tendencies towards the chamber music paradigm. 
 
+Scroll down for more information about specific topics:
+
+1. Musical Instruments
+2. Genres
+3. Common Instrumental Formats
+4. Some Musical Examples
 

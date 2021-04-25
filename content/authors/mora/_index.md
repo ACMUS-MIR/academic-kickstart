@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Fernando Mora Ángel
+title: Fernando Mora Ángel
 
 # Username (this should match the folder name)
 authors:

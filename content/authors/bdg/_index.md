@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Prof. Karlheinz Brandenburg
+title: Prof. Karlheinz Brandenburg
 
 # Username (this should match the folder name)
 authors:

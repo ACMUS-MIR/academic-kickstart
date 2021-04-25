@@ -1,6 +1,6 @@
 ---
 # Display name
-name: José R. Zapata
+title: José R. Zapata
 
 # Username (this should match the folder name)
 authors:

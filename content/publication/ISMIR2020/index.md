@@ -72,6 +72,7 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+:loudspeaker: This publication  received the "Best New Direction" award granted by the Scientific Committee of ISMIR2020. See detailes [here](https://www.ismir2020.net/awards/).
 
 Additional information available 
 
