@@ -56,12 +56,18 @@ subtitle = ""
 The ACMUS-MIR datas set is a growing collection of annotated music from the [Andes region of Colombia]({{< ref "/andes-music/index.md" >}}). 
 The data set was compiled with the goal of supporting the different MIR task addressed in our project: [meter extraction]({{< ref "/project/meterextraction.md" >}}), 
 [instrumental format recognition]({{< ref "/project/ensemblesize.md" >}}), [speech/music discrimination]({{< ref "/project/speechmusic.md" >}}) , and [scale detection in music]({{< ref "/project/scale.md" >}}).
+For each of these tasks, a dedicated collection of music was compiled and annotated by musicologist in Colombia. 
 
-For each of these 3 tasks, a dedicated collection of music was compiled and annotated by musicologist in Colombia. 
+The ACMUS-MIR data set has been made publicly available for the wider research community as a Zenodo repository[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3965447.svg)](https://doi.org/10.5281/zenodo.3965447)
+<br>
 
-<img src="/img/acmus-mir.png" alt="[ACMUS-MIR data set]" height="400" width="400" >
+For a detailed description of the dataset, please refer to our DLfM 2019 [publication.](https://dlsi.ua.es/gent/drizo/dlfm2019/mora.pdf) For information about the different versions of the ACMUS-MIR dataset, see the links below:
+- [v1.0]({{< ref "/acmus-log/v10.md" >}})
+- [v1.1]({{< ref "/acmus-log/v11.md" >}})
 
-The ACMUS-MIR data set has been made publicly available for the wider research community as a Zenodo repository [here](https://zenodo.org/record/3268961#.XShkTo8RVPZ). For a detailed description of the dataset, please refer to our DLfM 2019 [publication.](https://dlsi.ua.es/gent/drizo/dlfm2019/mora.pdf)
+
+
+
 
 
 ## Rhtyhm Set
